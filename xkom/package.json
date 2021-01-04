@@ -1,0 +1,14 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "some test for xkom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Łukasz Gordon",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.2.0"
+  }
+}
